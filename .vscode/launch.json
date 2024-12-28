@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Numbers",
+            "request": "launch",
+            "mainClass": "Numbers",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "patterns.Pattern",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "ArrayQues",
+            "request": "launch",
+            "mainClass": "Arrays.ArrayQues",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "SerializationExample",
+            "request": "launch",
+            "mainClass": "fileHandling.SerializationExample",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "FileInputExample",
+            "request": "launch",
+            "mainClass": "fileHandling.FileInputExample",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "SynchronizationExample",
+            "request": "launch",
+            "mainClass": "SynchronizationExample",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "other",
+            "request": "launch",
+            "mainClass": "other",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Maths",
+            "request": "launch",
+            "mainClass": "Maths",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "ShuffleAndReset",
+            "request": "launch",
+            "mainClass": "Design.ShuffleAndReset",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "MinStack",
+            "request": "launch",
+            "mainClass": "Design.MinStack",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "MinStack",
+            "request": "launch",
+            "mainClass": "MinStack",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "DynamicProgramming",
+            "request": "launch",
+            "mainClass": "DynamicProgramming",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "binaryTree",
+            "request": "launch",
+            "mainClass": "binaryTree",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "PreorderDFS",
+            "request": "launch",
+            "mainClass": "PreorderDFS",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "PreorderDFS",
+            "request": "launch",
+            "mainClass": "tree.PreorderDFS",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "technicalRoundqustion$KaprekarNumber",
+            "request": "launch",
+            "mainClass": "technicalRoundqustion$KaprekarNumber",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "arraysPractice",
+            "request": "launch",
+            "mainClass": "arraysPractice",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "arraysQues",
+            "request": "launch",
+            "mainClass": "arraysQues",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "firstStack",
+            "request": "launch",
+            "mainClass": "firstStack",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "technicalRoundqustion",
+            "request": "launch",
+            "mainClass": "technicalRoundqustion",
+            "projectName": "RohitJAVA_381a1e56"
+        }
+    ]
+}

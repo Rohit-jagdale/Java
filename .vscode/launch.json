@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "strings.Strings",
+            "projectName": "RohitJAVA_381a1e56"
+        },
+        {
+            "type": "java",
             "name": "Numbers",
             "request": "launch",
             "mainClass": "Numbers",
